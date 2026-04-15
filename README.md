@@ -47,29 +47,22 @@ This MVP approach was used to validate the user experience and product workflow 
 
 ## Screenshots
 
-### Splash Screen
-![Splash Screen](images/01_splash.png)
+<p align="center">
+  <img src="images/01_splash.png" width="220"/>
+  <img src="images/02_onboarding.png" width="220"/>
+  <img src="images/03_dashboard_dark.png" width="220"/>
+</p>
 
-### Onboarding
-![Onboarding](images/02_onboarding.png)
+<p align="center">
+  <img src="images/04_dashboard_light.png" width="220"/>
+  <img src="images/05_add_expense_ai.png" width="220"/>
+  <img src="images/06_cards.png" width="220"/>
+</p>
 
-### Dashboard Dark Mode
-![Dashboard Dark](images/03_dashboard_dark.png)
-
-### Dashboard Light Mode
-![Dashboard Light](images/04_dashboard_light.png)
-
-### Add Expense with AI Recommendation
-![Add Expense AI](images/05_add_expense_ai.png)
-
-### Corporate Cards
-![Cards](images/06_cards.png)
-
-### Approvals Center
-![Approvals](images/07_approvals.png)
-
-### Search
-![Search](images/08_search.png)
+<p align="center">
+  <img src="images/07_approvals.png" width="220"/>
+  <img src="images/08_search.png" width="220"/>
+</p>
 
 ## Project Goal
 
